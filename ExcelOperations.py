@@ -13,6 +13,8 @@ class ExcelOperations:
      def WritedataFromExcel(self):
           pass
 
+     def ReadWriteFromExcel(self):
+         pass
 
 if __name__ == '__main__':
     ob=ExcelOperations()
